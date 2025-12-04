@@ -99,7 +99,7 @@ Follow the steps below to run the project on your machine.
 ### **1️⃣ Clone the Repository**
 
 ```
-git clone https://github.com/InsaneIshita/Calories-Burnt-Prediction
+git clone https://github.com/InsaneIshita/Calories-Burnt-Prediction.git
 cd Calories-Burnt-Prediction
 ```
 
