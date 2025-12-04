@@ -60,6 +60,9 @@ The project uses:
 ```
 Calories-Burnt-Prediction/
 │
+├── .gitattributes
+├── Calories_Burnt_Prediction.ipynb #Notebook
+├── calories.csv #Downloaded dataset from Kaggle
 ├── app.py # Main Streamlit web app
 ├── calories_model.pkl # Trained ML model
 ├── scaler.pkl # Fitted scaler for preprocessing
