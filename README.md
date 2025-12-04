@@ -137,9 +137,7 @@ streamlit run app.py
 
 ## 👥 Team & Acknowledgement
 
-This project is developed as part of the  
-**Samsung Innovation Campus – AI Course**  
-by our team:
+This project is developed as part of the **Samsung Innovation Campus – AI Course** by our team:
 
 - **Ishita Singh**
 - **Anchal Vishwakarma**
