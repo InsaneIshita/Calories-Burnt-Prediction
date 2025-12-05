@@ -38,7 +38,7 @@ st.markdown("""
     }
     
     .stButton>button {
-        width: 100%;
+        width: 100% !important; 
         background-color: #f7c40f;
         color: black !important;
         border: 1.5px solid #f7c40f !important;
