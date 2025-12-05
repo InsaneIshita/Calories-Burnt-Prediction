@@ -5,6 +5,9 @@ This project was developed as part of the **Samsung Innovation Campus – Artifi
 
 The application is deployed using **Streamlit**, enabling an interactive and user-friendly interface.
 
+[![Open App](https://img.shields.io/badge/Try%20App-Streamlit%20Live-brightgreen?style=for-the-badge)](https://calories-burnt-predicti0n.streamlit.app/)
+
+
 ---
 
 ## 📌 Project Overview
